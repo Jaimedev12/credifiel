@@ -1,9 +1,9 @@
 "idEmisora","Nombre","IdBanco","Emisora","TipoEnvio", "Comision"
-1,"BANAMEX CLABE TRADICIONAL","2","NoAplica","TRADICIONAL"
-2,"BANAMEX CUENTA","2","NoAplica","CUENTA"
-3,"BANAMEX TARJETA","2","NoAplica","TARJETA"
-4,"BANAMEX INTERBANCARIO","2","NoAplica","INTERBANCARIO"
-5,"BANAMEX TRADICIONAL REINTENTO","2","NoAplica","TRADICIONAL"
+1,"BANAMEX CLABE TRADICIONAL","2","NoAplica","TRADICIONAL",1.75
+2,"BANAMEX CUENTA","2","NoAplica","CUENTA",1.75
+3,"BANAMEX TARJETA","2","NoAplica","TARJETA",1.75
+4,"BANAMEX INTERBANCARIO","2","NoAplica","INTERBANCARIO",1.75
+5,"BANAMEX TRADICIONAL REINTENTO","2","NoAplica","TRADICIONAL",1.75
 6,"BBVA TRADICIONAL REINTENTO","12","REINTENTO","TRADICIONAL"
 7,"BANORTE TRADICIONAL REINTENTO ","72","REINTENTO","TRADICIONAL"
 8,"SANTANDER TRADICIONAL REINTENTO ","14","REINTENTO","TRADICIONAL"
@@ -41,14 +41,14 @@
 35,"Santander Reintentos                              ","14","00623","REINTENTO"
 69,"Santander Reintentos Cuenta                       ","14","00623","REINTENTO"
 70,"Santander Interbancario Cuenta Excepciones        ","14","00623","INTERBANCARIO"
-45,"Banamex Tradicional Tarjeta Periodo Actual        ","2","noAplica","TARJETA"
-46,"Banamex Tradicional Cuenta Periodo Actual         ","2","noAplica","CUENTA"
-78,"Banamex Excepciones Tarjeta                       ","2","noAplica","TARJETA"
-51,"Banamex Excepciones Cuenta                        ","2","noAplica","CUENTA"
-36,"Banamex Reintentos                                ","2","noAplica","REINTENTO"
-52,"Banamex Reintentos Cuenta                         ","2","noAplica","REINTENTO CUENTA"
-53,"Banamex Interbancario Cuenta Periodo Actual       ","2","noAplica","TRADICIONAL"
-55,"Banamex Interbancario Cuenta Excepciones          ","2","noAplica","TRADICIONAL"
+45,"Banamex Tradicional Tarjeta Periodo Actual        ","2","noAplica","TARJETA",1.75
+46,"Banamex Tradicional Cuenta Periodo Actual         ","2","noAplica","CUENTA",1.75
+78,"Banamex Excepciones Tarjeta                       ","2","noAplica","TARJETA",1.75
+51,"Banamex Excepciones Cuenta                        ","2","noAplica","CUENTA",1.75
+36,"Banamex Reintentos                                ","2","noAplica","REINTENTO",1.75
+52,"Banamex Reintentos Cuenta                         ","2","noAplica","REINTENTO CUENTA",1.75
+53,"Banamex Interbancario Cuenta Periodo Actual       ","2","noAplica","TRADICIONAL",1.75
+55,"Banamex Interbancario Cuenta Excepciones          ","2","noAplica","TRADICIONAL",1.75
 72,"Banorte Interbancario Cuenta Periodo Actual       ","72","00496","TRADICIONAL"
 48,"Banorte Tradicional Cuenta Periodo Actual         ","72","00496","TRADICIONAL"
 75,"Banorte Excepciones Cuenta                        ","72","00496","TRADICIONAL"
